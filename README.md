@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jovan Velinov</h1>
 <h3 align="center">A passionate developer from Serbia</h3>
 
-- 👨‍💻 My Coding Portfolio [https://jovanvelinov.vercel.app/](https://jovanvelinov.vercel.app/)
+- 👨‍💻 My Coding Portfolio [https://jovanvelinov.vercel.app](https://jovanvelinov.vercel.app)
 
 - 📫 How to reach me **jowwanv@gmail.com**
 
