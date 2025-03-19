@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jovan-velinov-473b84356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jovan-velinov-473b84356" height="30" width="40" /></a>
-<a href="https://instagram.com/jovanw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovanw_" height="30" width="40" /></a>
+<a href="https://instagram.com/velinovjovan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovanw_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jovanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jovanw" height="30" width="40" /></a>
 </p>
 
