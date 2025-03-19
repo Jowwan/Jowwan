@@ -16,10 +16,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jowwan&theme=gruvbox&hide_border=false"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jowwan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Jowwan&theme=gruvbox&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jowwan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </div>
 </p>
+
 
 
 
