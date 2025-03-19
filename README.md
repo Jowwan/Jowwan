@@ -20,11 +20,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jowwan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-
 #
 
 <p align="center">
-  (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
 </p>
 
 #
