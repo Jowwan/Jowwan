@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 My Coding Portfolio [https://jovanvelinov.vercel.app/](https://jovanvelinov.vercel.app/)
+- 👨‍💻 My Coding Portfolio [https://jovanvelinov.vercel.app/](https://jovanvelinov.vercel.app)
 
 - 💬 Ask me about **Competitive Programming**
 
